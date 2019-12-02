@@ -8,4 +8,8 @@ public class FourArithmeticCalculator {
     public long minus(int op1, int op2) {
         return op1 - op2;
     }
+
+    public long multiply(int op1, int op2) {
+        return op1 * op2;
+    }
 }
