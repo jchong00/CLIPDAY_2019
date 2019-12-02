@@ -1,4 +1,4 @@
-package org.platformfarm.poc.cicd;
+package kr.co.clipsoft.clipday2019;
 
 import org.junit.Assert;
 import org.junit.Test;

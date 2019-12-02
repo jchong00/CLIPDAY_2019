@@ -1,6 +1,6 @@
-package org.platformfarm.poc.cicd;
+package kr.co.clipsoft.clipday2019;
 
-public class Calculator {
+public class FourArithmeticCalculator {
     public long add(int op1, int op2) {
         return op1 + op2;
     }
